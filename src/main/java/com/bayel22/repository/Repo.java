@@ -4,8 +4,8 @@ import com.bayel22.entity.Product;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 
-@Repository
-public interface Repo extends PagingAndSortingRepository<Product, Long> {
+public interface Repo<T> {
+    T getById(Long id);
 
-
+    void update(T entity);
 }
