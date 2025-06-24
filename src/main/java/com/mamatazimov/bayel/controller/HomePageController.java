@@ -1,4 +1,4 @@
-package com.bayel22.controller;
+package com.mamatazimov.bayel.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

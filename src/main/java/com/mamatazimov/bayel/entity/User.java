@@ -1,4 +1,4 @@
-package com.bayel22.entity;
+package com.mamatazimov.bayel.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

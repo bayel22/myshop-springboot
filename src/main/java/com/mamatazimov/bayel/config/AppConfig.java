@@ -1,4 +1,4 @@
-package com.bayel22.config;
+package com.mamatazimov.bayel.config;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.Configuration;

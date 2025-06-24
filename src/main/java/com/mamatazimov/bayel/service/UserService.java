@@ -1,10 +1,10 @@
-package com.bayel22.service;
+package com.mamatazimov.bayel.service;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.bayel22.entity.User;
-import com.bayel22.repository.UserRepository;
+import com.mamatazimov.bayel.entity.User;
+import com.mamatazimov.bayel.repository.UserRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

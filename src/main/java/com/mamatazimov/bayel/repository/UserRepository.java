@@ -1,6 +1,6 @@
-package com.bayel22.repository;
+package com.mamatazimov.bayel.repository;
 
-import com.bayel22.entity.User;
+import com.mamatazimov.bayel.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
